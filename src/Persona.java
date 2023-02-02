@@ -2,7 +2,7 @@
 public class Persona {
 
 	private String nombre;
-	private Integer edad = 0; 
+	private Integer edad = 1; 
 
 	public Integer getEdad() {
 		return edad;
